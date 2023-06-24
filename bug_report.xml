@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<bug_report>
+  <ID>1</ID>
+  <Severity>Trivial</Severity>
+  <Environment>Win 10 Home Chrome 114</Environment>
+  <Title>Date in "Calendario Economico" not translated on selected  language</Title>
+  <Steps>1. Navigate to capital.com
+         2. Choice language  except EN
+         3. Scroll down to block "Calendario Economico"</Steps>
+  <Expected_Result>Date in "Calendario Economico"  translated on  selected  language</Expected_Result>
+  <Actual_Result>Date in "Calendario Economico" not translated  on selected  language</Actual_Result>
